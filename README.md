@@ -21,6 +21,6 @@ The server utilizes socket.io for real-time communication. This allows for insta
 socket.io: For enabling real-time, bidirectional communication between clients and the server.
 
 
-![Screenshot](screenshot_199.png)
-![Screenshot](screenshot_200.png)
-![Screenshot](screenshot_201.png)
+![Screenshot](Screenshot_199.png)
+![Screenshot](Screenshot_200.png)
+![Screenshot](Screenshot_201.png)
